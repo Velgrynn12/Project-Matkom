@@ -1,0 +1,101 @@
+ID,Nama,Umur,Gender,Nilai Tugas,Tanggal,UTS,UAS,Status
+1,Budi,24,Laki-laki,88,9/8/2023,90,80,Lulus
+2,Ani,21,Perempuan,78,15/8/2023,75,80,Lulus
+3,Joko,20,Laki-laki,64,15/8/2023,85,95,Lulus
+4,Siti,21,Perempuan,92,9/8/2023,55,65,Tidak Lulus
+5,Agus,23,Laki-laki,57,9/8/2023,80,75,Tidak Lulus
+6,Dewi,21,Perempuan,70,9/8/2023,75,95,Lulus
+7,Eka,21,Perempuan,88,15/8/2023,85,95,Lulus
+8,Adi,23,Laki-laki,68,15/8/2023,70,65,Tidak Lulus
+9,Rina,22,Perempuan,72,15/8/2023,80,70,Tidak Lulus
+10,Hadi,24,Laki-laki,60,15/8/2023,85,80,Lulus
+11,Maya,23,Perempuan,60,15/8/2023,79,88,Lulus
+12,Rudi,22,Laki-laki,73,9/8/2023,95,85,Lulus
+13,Surya,22,Laki-laki,85,9/8/2023,94,81,Lulus
+14,Wati,20,Perempuan,89,9/8/2023,88,91,Lulus
+15,Ari,22,Laki-laki,73,15/8/2023,88,85,Lulus
+16,Lia,23,Perempuan,52,15/8/2023,74,84,Tidak Lulus
+17,Dian,22,Perempuan,71,9/8/2023,76,77,Tidak Lulus
+18,Dodi,23,Laki-laki,51,15/8/2023,85,70,Tidak Lulus
+19,Nina,24,Perempuan,73,9/8/2023,93,80,Lulus
+20,Adit,21,Laki-laki,93,9/8/2023,74,94,Lulus
+21,Tia,21,Perempuan,79,9/8/2023,74,82,Lulus
+22,Andi,20,Laki-laki,87,9/8/2023,81,94,Lulus
+23,Nia,21,Perempuan,51,15/8/2023,89,71,Tidak Lulus
+24,Bayu,22,Laki-laki,70,15/8/2023,90,93,Lulus
+25,Indah,21,Perempuan,82,9/8/2023,93,92,Lulus
+26,Rama,21,Laki-laki,61,9/8/2023,85,75,Tidak Lulus
+27,Nisa,21,Perempuan,71,15/8/2023,76,91,Lulus
+28,Iwan,22,Laki-laki,93,15/8/2023,83,74,Lulus
+29,Mega,23,Perempuan,74,15/8/2023,85,87,Lulus
+30,Agung,20,Laki-laki,98,9/8/2023,89,91,Lulus
+31,Ria,24,Perempuan,76,9/8/2023,87,72,Lulus
+32,Dino,24,Laki-laki,91,15/8/2023,92,79,Lulus
+33,Rini,21,Perempuan,77,15/8/2023,73,76,Lulus
+34,Yoga,21,Laki-laki,65,15/8/2023,95,75,Lulus
+35,Evi,23,Perempuan,64,15/8/2023,93,89,Lulus
+36,Aji,24,Laki-laki,96,9/8/2023,86,77,Lulus
+37,Lina,20,Perempuan,100,9/8/2023,88,75,Lulus
+38,Dika,22,Laki-laki,93,9/8/2023,80,77,Lulus
+39,Yuli,23,Perempuan,52,15/8/2023,85,75,Tidak Lulus
+40,Bagus,22,Laki-laki,86,15/8/2023,73,82,Lulus
+41,Tina,23,Perempuan,100,9/8/2023,81,93,Lulus
+42,Farid,24,Laki-laki,56,9/8/2023,81,79,Tidak Lulus
+43,Rika,21,Perempuan,70,9/8/2023,82,86,Lulus
+44,Hafiz,22,Laki-laki,58,9/8/2023,72,94,Tidak Lulus
+45,Yani,22,Perempuan,88,9/8/2023,95,71,Lulus
+46,Fajar,20,Laki-laki,67,15/8/2023,78,90,Lulus
+47,Ayu,24,Perempuan,53,9/8/2023,84,92,Lulus
+48,Rian,23,Laki-laki,74,15/8/2023,72,80,Lulus
+49,Tika,20,Perempuan,63,15/8/2023,79,93,Lulus
+50,Fandi,23,Laki-laki,99,15/8/2023,70,91,Lulus
+51,Siska,21,Perempuan,58,9/8/2023,94,90,Lulus
+52,Rio,23,Laki-laki,75,15/8/2023,82,74,Lulus
+53,Sinta,24,Perempuan,51,9/8/2023,94,87,Lulus
+54,Arif,23,Laki-laki,69,15/8/2023,83,94,Lulus
+55,Rara,22,Perempuan,77,15/8/2023,94,84,Lulus
+56,Rian,22,Laki-laki,96,9/8/2023,94,83,Lulus
+57,Tyas,20,Perempuan,56,15/8/2023,87,95,Lulus
+58,Ryan,22,Laki-laki,93,15/8/2023,87,80,Lulus
+59,Asih,23,Perempuan,57,9/8/2023,73,80,Tidak Lulus
+60,Gito,24,Laki-laki,96,15/8/2023,94,78,Lulus
+61,Ayi,20,Perempuan,84,9/8/2023,74,73,Lulus
+62,Tino,24,Laki-laki,63,9/8/2023,84,78,Lulus
+63,Nova,22,Perempuan,66,15/8/2023,80,73,Tidak Lulus
+64,Reza,21,Laki-laki,85,15/8/2023,83,77,Lulus
+65,Umi,22,Perempuan,99,15/8/2023,73,88,Lulus
+66,Doni,24,Laki-laki,89,15/8/2023,79,94,Lulus
+67,Lia,23,Perempuan,53,9/8/2023,82,73,Tidak Lulus
+68,Dani,20,Laki-laki,51,9/8/2023,87,94,Lulus
+69,Yani,24,Perempuan,55,9/8/2023,84,86,Lulus
+70,Wira,21,Laki-laki,91,15/8/2023,85,86,Lulus
+71,Yuli,21,Perempuan,53,9/8/2023,71,79,Tidak Lulus
+72,Edo,23,Laki-laki,78,9/8/2023,92,71,Lulus
+73,Tari,23,Perempuan,67,15/8/2023,77,79,Tidak Lulus
+74,Andy,21,Laki-laki,75,9/8/2023,82,70,Lulus
+75,Dita,24,Perempuan,93,15/8/2023,90,83,Lulus
+76,Fahmi,21,Laki-laki,83,9/8/2023,88,72,Lulus
+77,Erna,20,Perempuan,59,15/8/2023,83,83,Lulus
+78,Dimas,21,Laki-laki,85,9/8/2023,91,73,Lulus
+79,Eka,22,Perempuan,63,15/8/2023,73,77,Tidak Lulus
+80,Ricky,22,Laki-laki,80,15/8/2023,74,83,Lulus
+81,Merry,20,Perempuan,97,15/8/2023,85,86,Lulus
+82,Rizal,20,Laki-laki,64,9/8/2023,75,87,Lulus
+83,Tina,22,Perempuan,57,9/8/2023,81,93,Lulus
+84,Billy,22,Laki-laki,63,15/8/2023,91,72,Lulus
+85,Eva,24,Perempuan,72,9/8/2023,91,72,Lulus
+86,Yudi,24,Laki-laki,89,15/8/2023,88,81,Lulus
+87,Vera,20,Perempuan,70,9/8/2023,83,88,Lulus
+88,Deka,22,Laki-laki,65,15/8/2023,74,81,Tidak Lulus
+89,Dian,21,Perempuan,94,9/8/2023,72,72,Lulus
+90,Roy,20,Laki-laki,67,9/8/2023,72,91,Lulus
+91,Irma,20,Perempuan,96,15/8/2023,83,85,Lulus
+92,Wahyu,24,Laki-laki,73,9/8/2023,78,77,Lulus
+93,Sari,23,Perempuan,75,9/8/2023,87,93,Lulus
+94,Riko,20,Laki-laki,74,15/8/2023,84,85,Lulus
+95,Ela,20,Perempuan,94,9/8/2023,80,94,Lulus
+96,Yanto,24,Laki-laki,90,15/8/2023,76,86,Lulus
+97,Dina,22,Perempuan,78,15/8/2023,92,72,Lulus
+98,Fery,22,Laki-laki,64,15/8/2023,87,74,Lulus
+99,Febi,22,Perempuan,94,15/8/2023,74,70,Lulus
+100,Rony,20,Laki-laki,50,15/8/2023,94,94,Lulus
